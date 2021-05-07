@@ -1,2 +1,4 @@
 # Loops_Project
-Loops project for school
+This was a project for school. Feel free to use it! 
+You can give me credit or not, it doesn't matter.
+Enjoy!
